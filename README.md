@@ -2,8 +2,8 @@
 
 - 🏫 I'm currently studying in Computer engineering at Chulalongkorn University (Intania 108 / CP51)
 - 🌱 I'm currently learning **Python, C++, Java**
-- 📌 I'm interested in **Data Science, Cybersecurity, and Software Development** 
-- 🏢 I'm currently looking for an internship in **Software Engineering, Data analyst and data science** 
+- 📌 I'm interested in **Data Science, Data Analysis, and Software Development** 
+- 🏢 I'm currently looking for an internship in **Software Engineering, Data analyst and Data science** 
 
 ### 💻Programming Languages:
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>    <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> </p>
